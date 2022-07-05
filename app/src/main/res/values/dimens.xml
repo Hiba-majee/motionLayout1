@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smallPadding">8dp</dimen>
+    <dimen name="titleText">24sp</dimen>
+    <dimen name="mSpace">48dp</dimen>
+    <dimen name="bigSpace">64dp</dimen>
+</resources>
